@@ -17,8 +17,8 @@ html {
 .ring {
   margin: -35vh;
   border: solid 1px #FF2887;
-  width: 70vh;
-  height: 70vh;
+  width: 60vh;
+  height: 60vh;
   border-radius: 50%;
 }
 .ring:nth-child(1) {
